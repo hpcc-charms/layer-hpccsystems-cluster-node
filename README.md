@@ -1,1 +1,3 @@
-# layer-hpccsystems-cluster-node
+  layer:hpccsystems-cluster-base'
+  - 'interface:http'
+
