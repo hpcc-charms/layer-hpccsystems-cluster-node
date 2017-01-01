@@ -1,4 +1,3 @@
 repo: https://github.com/hpcc-charms/layer-hpccsystems-cluster-node.git
 includes:
   - 'layer:hpccsystems-cluster-base'
-  - 'interface:http'
